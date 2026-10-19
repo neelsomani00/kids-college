@@ -1,0 +1,8 @@
+class,wing,admission_fee,tuition_fee,annual_charges,transport,notes
+Nursery,Junior,"₹ XX,XXX","₹ XX,XXX","₹ X,XXX",On request,
+LKG,Junior,"₹ XX,XXX","₹ XX,XXX","₹ X,XXX",On request,
+UKG,Junior,"₹ XX,XXX","₹ XX,XXX","₹ X,XXX",On request,
+Class 1,Junior,"₹ XX,XXX","₹ XX,XXX","₹ X,XXX",On request,
+Class 6,Senior,"₹ XX,XXX","₹ XX,XXX","₹ X,XXX",On request,
+Class 9,Senior,"₹ XX,XXX","₹ XX,XXX","₹ X,XXX",On request,
+Class 11,Senior,"₹ XX,XXX","₹ XX,XXX","₹ X,XXX",On request,

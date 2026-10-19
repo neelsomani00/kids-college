@@ -1,0 +1,15 @@
+# Kids College Indore
+User-agent: *
+Allow: /
+
+# AI and search crawlers are welcome to read the public pages
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.kidscollegeindore.in/sitemap.xml
